@@ -1,0 +1,8 @@
+A very lightweight replacement for WCF.
+
+Does only the following:
+
+Request/response using protocol buffers
+One way command using protocol buffers
+
+Very small codebase
